@@ -1,0 +1,1 @@
+console.log('cảnh báo người chưa đủ 18+')
